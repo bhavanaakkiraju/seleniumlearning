@@ -1,0 +1,25 @@
+2020-09-17 12:36:53,161 [main] INFO com.baseclass.Library - Starting with Browser Set Up
+2020-09-17 12:36:58,261 [main] INFO com.baseclass.Library - Identified the browser as chrome. Launching the browser
+2020-09-17 12:37:05,640 [main] INFO com.baseclass.Library - Launched the OrangeHRM Application
+2020-09-17 12:37:05,641 [main] INFO com.baseclass.Library - Browser Launched
+2020-09-17 12:37:06,185 [main] INFO com.baseclass.Library - Entered UserName And Password
+2020-09-17 12:37:11,751 [main] INFO com.baseclass.Library - Login Button Clicked
+2020-09-17 12:37:12,224 [main] INFO com.baseclass.Library - Taken Screenshot Of Login Page And Title printed in console
+2020-09-17 12:37:12,988 [main] INFO com.baseclass.Library - Exiting the application and closing the browser
+2020-09-17 12:37:12,988 [main] INFO com.baseclass.Library - Browser is closed
+2020-09-17 12:55:07,404 [main] INFO com.baseclass.Library - Starting with Browser Set Up
+2020-09-17 12:55:13,072 [main] INFO com.baseclass.Library - Identified the browser as chrome. Launching the browser
+2020-09-17 12:55:25,061 [main] INFO com.baseclass.Library - Launched the OrangeHRM Application
+2020-09-17 12:55:25,061 [main] INFO com.baseclass.Library - Browser Launched
+2020-09-17 12:55:25,479 [main] INFO com.baseclass.Library - Entered UserName And Password
+2020-09-17 12:55:33,507 [main] INFO com.baseclass.Library - Login Button Clicked
+2020-09-17 12:55:33,926 [main] INFO com.baseclass.Library - Taken Screenshot Of Login Page And Title printed in console
+2020-09-17 12:55:35,982 [main] INFO com.baseclass.Library - menu admin biutton is clicked
+2020-09-17 12:55:36,096 [main] INFO com.baseclass.Library - Username is Entered
+2020-09-17 12:55:36,258 [main] INFO com.baseclass.Library - UserRole is Entered
+2020-09-17 12:55:36,383 [main] INFO com.baseclass.Library - Employee Name is Entered
+2020-09-17 12:55:36,655 [main] INFO com.baseclass.Library - Status is selected
+2020-09-17 12:55:37,711 [main] INFO com.baseclass.Library - Search button is clicked
+2020-09-17 12:55:38,240 [main] INFO com.baseclass.Library - Taken Screenshot Of Login Page And Title printed in console
+2020-09-17 12:55:39,215 [main] INFO com.baseclass.Library - Exiting the application and closing the browser
+2020-09-17 12:55:39,215 [main] INFO com.baseclass.Library - Browser is closed

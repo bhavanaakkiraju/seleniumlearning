@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18929" started-at="2020-09-17T07:00:12Z" finished-at="2020-09-17T07:00:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18929" started-at="2020-09-17T07:00:12Z" finished-at="2020-09-17T07:00:31Z">
+      <class name="com.testcases.OrangeHrm_logintestcase">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.testcases.OrangeHrm_logintestcase@3b0f7d9d]" name="launchApp" is-config="true" duration-ms="17202" started-at="2020-09-17T07:00:12Z" finished-at="2020-09-17T07:00:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.testcases.OrangeHrm_logintestcase@3b0f7d9d]" name="login" duration-ms="720" started-at="2020-09-17T07:00:29Z" finished-at="2020-09-17T07:00:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcases.OrangeHrm_logintestcase@3b0f7d9d]" name="close" is-config="true" duration-ms="601" started-at="2020-09-17T07:00:30Z" finished-at="2020-09-17T07:00:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.testcases.OrangeHrm_logintestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
